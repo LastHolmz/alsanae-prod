@@ -1,9 +1,5 @@
 {
   "name": "alsanae-prod",
-  "packageManager": "pnpm@10.17.1",
-  "engines": {
-    "node": "20.x"
-  },
   "version": "0.1.0",
   "private": true,
   "scripts": {
